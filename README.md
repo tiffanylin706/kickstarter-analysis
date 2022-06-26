@@ -28,19 +28,19 @@ However, chart suggestion doesn't always provide you the best chart. I need to c
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 - May hit the highest amount of being sucessful based on the chart.
 - There is no cancellation in October.
 
-- What can you conclude about the Outcomes based on Goals?
+What can you conclude about the Outcomes based on Goals?
 
 - The percentage of cancellation is 0 for all the goals.
 
-- What are some limitations of this dataset?
+What are some limitations of this dataset?
 
 - This dataset can be lack of reliability because we don't know where the origin source is from.
 
-- What are some other possible tables and/or graphs that we could create?
+What are some other possible tables and/or graphs that we could create?
 
 - maybe we could create more graphs based on descriptive statistics sheet to see the differences among each type of graphs.
